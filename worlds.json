@@ -1,0 +1,26 @@
+{
+  "configVersion": 1,
+  "currentVersion": 1,
+  "maps": [
+    {
+      "name": "HighJacked",
+      "author": "MiniDigger",
+      "gamemode": [
+        "SurvivalGames",
+        "1vs1"
+      ]
+    },
+    {
+      "name": "lobby",
+      "author": "Prom3d",
+      "gamemode": []
+    },
+    {
+      "name": "Port Mackerel",
+      "author": "Sethbling",
+      "gamemode": [
+        "Splatoon"
+      ]
+    }
+  ]
+}
