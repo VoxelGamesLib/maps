@@ -21,6 +21,11 @@
       "gamemode": [
         "Splatoon"
       ]
+    },
+    {
+      "name": "Lobby",
+      "author": "Prom3d",
+      "gamemode": []
     }
   ]
 }
