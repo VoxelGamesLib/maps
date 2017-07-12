@@ -27,6 +27,14 @@
       "name": "Lobby",
       "author": "Prom3d",
       "gamemode": []
+    },
+    {
+      "name": "Fabrik",
+      "author": "Prom3d",
+      "gamemode": [
+        "Deathmatch",
+        "HideAndSeek"
+      ]
     }
   ]
 }
