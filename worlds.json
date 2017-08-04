@@ -36,6 +36,13 @@
         "Deathmatch",
         "HideAndSeek"
       ]
+    },
+    {
+      "name": "Hub",
+      "author": "Prom3d",
+      "gamemode": [
+        "Hub"
+      ]
     }
   ]
 }
