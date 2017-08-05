@@ -43,6 +43,13 @@
       "gamemode": [
         "Hub"
       ]
+    },
+    {
+      "name": "HighJacked ",
+      "author": "MiniDigger ",
+      "gamemode": [
+        "SurvivalGames"
+      ]
     }
   ]
 }
