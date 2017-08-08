@@ -57,6 +57,13 @@
       "gamemode": [
         "SurvivalGames"
       ]
+    },
+    {
+      "name": "HighJacked",
+      "author": "MiniDigger",
+      "gamemode": [
+        "SurvivalGames"
+      ]
     }
   ]
 }
