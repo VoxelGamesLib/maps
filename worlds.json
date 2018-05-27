@@ -6,7 +6,6 @@
       "name": "HighJacked",
       "author": "MiniDigger",
       "gamemode": [
-        "SurvivalGames",
         "1vs1",
         "HideAndSeek",
         "TroubleInMinecraft"
@@ -25,11 +24,6 @@
       ]
     },
     {
-      "name": "Lobby",
-      "author": "Prom3d",
-      "gamemode": []
-    },
-    {
       "name": "Fabrik",
       "author": "Prom3d",
       "gamemode": [
@@ -42,27 +36,6 @@
       "author": "Prom3d",
       "gamemode": [
         "Hub"
-      ]
-    },
-    {
-      "name": "HighJacked ",
-      "author": "MiniDigger ",
-      "gamemode": [
-        "SurvivalGames"
-      ]
-    },
-    {
-      "name": "HighJacked",
-      "author": "MiniDigger ",
-      "gamemode": [
-        "SurvivalGames"
-      ]
-    },
-    {
-      "name": "HighJacked",
-      "author": "MiniDigger",
-      "gamemode": [
-        "SurvivalGames"
       ]
     },
     {
