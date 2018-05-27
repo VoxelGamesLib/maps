@@ -64,6 +64,13 @@
       "gamemode": [
         "SurvivalGames"
       ]
+    },
+    {
+      "name": "Abandoned Island",
+      "author": "MezzoMeex",
+      "gamemode": [
+        "SurvivalGames"
+      ]
     }
   ]
 }
