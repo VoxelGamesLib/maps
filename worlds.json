@@ -3,7 +3,8 @@
   "currentVersion": 1,
   "maps": [
     {
-      "name": "HighJacked",
+      "displayName": "HighJacked",
+      "worldName": "HighJacked",
       "author": "MiniDigger",
       "gamemode": [
         "1vs1",
@@ -12,19 +13,22 @@
       ]
     },
     {
-      "name": "Lobby",
+      "displayName": "Lobby",
+      "worldName": "Lobby",
       "author": "Prom3d",
       "gamemode": []
     },
     {
-      "name": "Port Mackerel",
+      "displayName": "Port Mackerel",
+      "worldName": "PortMackerel",
       "author": "Sethbling",
       "gamemode": [
         "Splatoon"
       ]
     },
     {
-      "name": "Fabrik",
+      "displayName": "Fabrik",
+      "worldName": "Fabrik",
       "author": "Prom3d",
       "gamemode": [
         "Deathmatch",
@@ -32,14 +36,16 @@
       ]
     },
     {
-      "name": "Hub",
+      "displayName": "Hub",
+      "worldName": "Hub",
       "author": "Prom3d",
       "gamemode": [
         "Hub"
       ]
     },
     {
-      "name": "Abandoned Island",
+      "displayName": "Abandoned Island",
+      "worldName": "AbandonedIsland",
       "author": "MezzoMeex",
       "gamemode": [
         "SurvivalGames"
